@@ -1,0 +1,10 @@
+[
+	{
+		"code": "PRINTSCREEN",
+		"name": "PRINTSCREEN",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
